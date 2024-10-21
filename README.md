@@ -69,3 +69,7 @@ Results:
 Model Evaluation:
     The best model achieved a test accuracy of approximately 90%.
     Several sample test images were classified correctly, with predictions visualized in the notebooks.
+
+For more Details
+                  
+                  https://medium.com/@priyadharshaninavarathnam/dog-vs-cat-image-classification-using-cnns-c17f7ceeb9e5
